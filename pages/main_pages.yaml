@@ -1,0 +1,157 @@
+pages:
+  about:
+    path: about.html
+    page_title: Sobre
+    main_img_path: "images/gabi-ilheus.jpeg"
+    post_title: "Deve ser aqui"
+    post_text: "<p>
+      Oi. Sou a Gabi e se você chegou aqui, provavelmente me conhece.
+      Tenho mais de 30 anos, sou internacionalista com MBA em Inovação Social, gosto de caminhar,
+      de arquitetura, design, arte, livros e Japão.
+      Fiz esse blog pros meus amigos, um ponto de encontro só nosso no mundo virtual,
+      com a ajuda do meu namorado que codou esse lugar secreto. Além de compartilhar as
+      experiências,
+      lugares e celebrar a criatividade das minhas pessoas preferidas,
+      é também uma homenagem aos blogs dos anos 2000, em especial o meu preferido: 
+      <a href=\"http://donttouchmymoleskine.com\">“Don't touch my moleskine“</a> de Dani Arrais.
+      </p>"
+
+posts:
+  donchan: 
+    path: donchan.html
+    page_title: Donchan
+    main_img_path: images/donchan/donchan.jpg
+    post_title: Donchan
+    post_text: "
+    
+    <p>Antes de conhecer o Dani pessoalmente, quando ainda só falávamos por mensagens, já sabia que ele
+    frequentava assiduamente o karaokê-izakaya localizado no Jardins. “Cozy” é como os meus amigos
+    japoneses expatriados descrevem o bar que serve katsu-sando e tem umeshu no cardápio de drinks. Um
+    pouquinho do Japão com a festividade brasileira, em um espaço pequeno com poucas mesas e um
+    balcão médio que garante interação pra quem estiver procurando.</p>
+
+    <p>Chamei o Dani pra contar um pouco sobre esse que é um de seus lugares preferidos em São Paulo.</p>
+    
+    <p>
+    <img src=\"images/sample-1050.jpg\" sizes=\"(max-width: 2100px) 100vw, 2100px\">
+    </p>
+
+    <p><strong>Deve ser aqui:</strong> Dani, conta pra gente como conheceu o Donchan e do que mais gosta de lá. <br>
+    <strong>Dani:</strong> Eu conheci o Donchan por causa de amigos do trabalho. Era despedida de uma amiga e eu fiquei
+    muito bêbado. Cantei muito e fiquei conversando com a galera que trabalha lá e com o pessoal do meu
+    trabalho que foi. O que mais gosto de lá é a vibe, uma sensação de acolhimento e de bem-vindo. Isso
+    muito por conta das pessoas que frequentam e do pessoal que trabalha lá para criar essa atmosfera
+    (muitas pessoas vão lá com frequência e você acaba fazendo “amigos do Donchan”).</p>
+    <p></p>
+    <br>
+
+    <p><strong>Deve ser aqui:</strong> Como descreveria o ambiente para quem nunca foi?<br>
+    <strong>Dani:</strong> Um bar de uma série do Netflix, animado e com um controle de karaokê antigo que veio Japão.
+    Muita gente desafinada e uma caixa de som quebrada.</p>
+    <p></p>
+    <br>
+
+    <p><strong>Deve ser aqui:</strong> O Donchan é pra quem gosta de???<br>
+    <strong>Dani:</strong> se sentir expatriado e pra quem procura casa, comida meio caseira-meio podrão, pra quem gosta
+    de pessoas e pra quem gosta só de observar.</p>
+    <p></p>
+    <br>
+
+    <p><strong>Deve ser aqui:</strong> O Donchan é perfeito? E se não, o que falta pra ser?<br>
+    <strong>Dani:</strong> A perfeição do Donchan está na sua imperfeição. É um lugar muito humano.</p>
+
+    "
+    date: "15 de Novembro de 2022"
+    category: "I <3 SP"
+  
+  jeff_peru: 
+    path: jeff_peru.html
+    page_title: Jeff no Peru
+    main_img_path: images/donchan/donchan.jpg
+    post_title: Looks do Jeff no Peru
+    post_text: "
+    
+    <p>
+    Jeff é um amigo querido, engraçado e estiloso. Foi pro Peru mês passado e compartilhou fotos incríveis nos stories. 
+    Por isso, pedi um compilado dos melhores looks e momentos da viagem que servirão como dicas pra quem um dia quer visitar o país.
+    </p>
+
+    <p>Chamei o Dani pra contar um pouco sobre esse que é um de seus lugares preferidos em São Paulo.</p>
+    
+    <p>
+    <img src=\"images/sample-1050.jpg\" sizes=\"(max-width: 2100px) 100vw, 2100px\">
+    </p>
+
+    <p><strong>Deve ser aqui:</strong> Qual foi o momento mais marcante da viagem? (curiosidade cultural, situação engraçada, etc) <br>
+    <strong>Jeff:</strong> O Peru é, historicamente, muito rico!
+      Todo canto tem algo muito interessante e diferente do que temos aqui no Brasil.
+      Um lugar que me deixou muito impactado foi a cidade de Ollantaytambo.
+      Que é uma cidade pequininha, construída antes de 1300 D.C. é TOTALMENTE funcional!
+      É uma coisa linda, todas as construções de pedra com água do rio correndo pelos aquedutos que irrigam todo o povoado.
+      Vale ficar por uma noite.
+    </p>
+    <p></p>
+    <br>
+
+    <p><strong>Deve ser aqui:</strong> Top 3 looks no Peru <br>
+    <strong>Jeff:</strong> 
+    A)	T-shirt branca básica é tiro certo sempre e gorro Donut laranja pra dar uma cor e alegria. 
+    (Laranja é antidepressivo. Não há registros de gente triste perto da cor laranja). <!-- esse cara é um genio e concordo com ele -->
+
+    <p>
+    <img src=\"images/jeff_looks_peru/foto3.jpeg\" sizes=\"(max-width: 2100px) 100vw, 2100px\">
+    </p>
+
+    B)	Parka da Bolovo pra manter o corpo livre das intempéries.
+    <p>
+    <img src=\"images/jeff_looks_peru/foto2.jpeg\" sizes=\"(max-width: 2100px) 100vw, 2100px\">
+    </p>
+
+    C)	Manga longa da Birden que te protege do vento, mosquitos e do Deus Sol que castiga Machu Picchu.
+
+    <p>
+    <img src=\"images/jeff_looks_peru/foto1.jpeg\" sizes=\"(max-width: 2100px) 100vw, 2100px\">
+    </p>
+    
+    </p>
+    <p></p>
+    <br>
+
+    <p><strong>Deve ser aqui:</strong> Principal dica pra quem está planejando/quer visitar o país:<br>
+    <strong>Jeff:</strong> Toda viagem precisa de planejamento,mas os pequenos detalhes são importantíssimos.
+
+    Exemplo: ao pegar o trem para Machu Picchu é vital que escolha um lugar do lado esquerdo do trem, porque as melhores paisagens estão desse lado.
+
+    Respeitar a altitude é essencial. Pegue os primeiros dois ou três dias em Cusco para fazer compras beeem na moralzinha.
+    Faça um slow travel digno.
+
+    Negocie os presentinhos. A galera do comércio curte, fique em paz.
+
+    Por fim
+    Enlouqueça, mas não morra.
+    </p>
+    <p></p>
+    <br>
+
+    <p><strong>Deve ser aqui:</strong> Restaurantes ou pratos mais gostosos: <br>
+    <strong>Jeff:</strong> Quando em Lima, não deixe de ir no Astrid y Gaston.
+    Já foi nomeado um dos 100 melhores do mundo e é uma comida maravilhosa com ótimo custo-benefício.
+
+    Se puder, experimente o dumpling de aji de gallina como entrada e de prato principal, um dos clássicos do rolê, o Carbonara Nikkei. É um udon com emulsão de ouriço e breadcrumbs.
+    E arremata com um Tiramisu de lucuma (textura de abacate, só que amarelo e com sabor floral).
+
+    Mas, se tua vibe não bate com frutos do mar, cola no Mangos que fica no Shopping Larcomar e peça um Arroz de Pato com salsa criolla, que não tem erro.
+    </p>
+
+    <p><strong>Deve ser aqui:</strong> Se pudesse voltar, teria feito algo diferente? Se sim, o quê? <br>
+    <strong>Jeff:</strong> Acho que a pandemia mexeu com meus miolos e perdi um pouco da minha organização de roteiro de viagem.
+
+    Se fosse mudar algo, seria respeitar mais a altitude de Cusco e levar mais dinheiro (Reais ou Dólares em espécie mesmo) ou levar cartão conta global em dólares.
+
+    Teria gasto uns 30% a menos.
+
+    </p>
+
+    "
+    date: "15 de Novembro de 2022"
+    category: "I <3 SP"
