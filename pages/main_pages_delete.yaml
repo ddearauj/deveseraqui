@@ -13,20 +13,19 @@ pages:
       experiências,
       lugares e celebrar a criatividade das minhas pessoas preferidas,
       é também uma homenagem aos blogs dos anos 2000, em especial o meu preferido: 
-      <a href=\"http://donttouchmymoleskine.com\">\"Don't touch my moleskine\"</a> de Dani Arrais. 
-      <p> Sejam bem vindes :)
+      <a href=\"http://donttouchmymoleskine.com\">“Don't touch my moleskine“</a> de Dani Arrais.
       </p>"
 
 posts:
   donchan: 
     path: donchan.html
     page_title: Donchan
-    main_img_path: 
+    main_img_path: images/donchan/donchan.jpg
     post_title: Donchan
     post_text: "
     
     <p>Antes de conhecer o Dani pessoalmente, quando ainda só falávamos por mensagens, já sabia que ele
-    frequentava assiduamente o karaokê-izakaya localizado no Jardins. \"Cozy\" é como os meus amigos
+    frequentava assiduamente o karaokê-izakaya localizado no Jardins. “Cozy” é como os meus amigos
     japoneses expatriados descrevem o bar que serve katsu-sando e tem umeshu no cardápio de drinks. Um
     pouquinho do Japão com a festividade brasileira, em um espaço pequeno com poucas mesas e um
     balcão médio que garante interação pra quem estiver procurando.</p>
@@ -34,15 +33,15 @@ posts:
     <p>Chamei o Dani pra contar um pouco sobre esse que é um de seus lugares preferidos em São Paulo.</p>
     
     <p>
-    <img src=\"images/seikaebin_donchan.jpeg\" sizes=\"(max-width: 210px) 10vw, 210px\">
-    Foto: Seika e Bin cantando no Donchan :)
+    <img src=\"images/sample-1050.jpg\" sizes=\"(max-width: 2100px) 100vw, 2100px\">
+    </p>
 
     <p><strong>Deve ser aqui:</strong> Dani, conta pra gente como conheceu o Donchan e do que mais gosta de lá. <br>
     <strong>Dani:</strong> Eu conheci o Donchan por causa de amigos do trabalho. Era despedida de uma amiga e eu fiquei
     muito bêbado. Cantei muito e fiquei conversando com a galera que trabalha lá e com o pessoal do meu
     trabalho que foi. O que mais gosto de lá é a vibe, uma sensação de acolhimento e de bem-vindo. Isso
     muito por conta das pessoas que frequentam e do pessoal que trabalha lá para criar essa atmosfera
-    (muitas pessoas vão lá com frequência e você acaba fazendo \"amigos do Donchan\").</p>
+    (muitas pessoas vão lá com frequência e você acaba fazendo “amigos do Donchan”).</p>
     <p></p>
     <br>
 
@@ -74,10 +73,16 @@ posts:
     
     <p>
     Jeff é um amigo querido, engraçado e estiloso. Foi pro Peru mês passado e compartilhou fotos incríveis nos stories. 
-    Por isso, pedi um compilado dos melhores looks e momentos da viagem que servirão como dicas pra quem quer visitar o país um dia.
+    Por isso, pedi um compilado dos melhores looks e momentos da viagem que servirão como dicas pra quem um dia quer visitar o país.
     </p>
 
-    <p><strong>Deve ser aqui:</strong> Qual foi o momento mais marcante da viagem? <br>
+    <p>Chamei o Dani pra contar um pouco sobre esse que é um de seus lugares preferidos em São Paulo.</p>
+    
+    <p>
+    <img src=\"images/sample-1050.jpg\" sizes=\"(max-width: 2100px) 100vw, 2100px\">
+    </p>
+
+    <p><strong>Deve ser aqui:</strong> Qual foi o momento mais marcante da viagem? (curiosidade cultural, situação engraçada, etc) <br>
     <strong>Jeff:</strong> O Peru é, historicamente, muito rico!
       Todo canto tem algo muito interessante e diferente do que temos aqui no Brasil.
       Um lugar que me deixou muito impactado foi a cidade de Ollantaytambo.
@@ -88,31 +93,31 @@ posts:
     <p></p>
     <br>
 
-    <p><strong>Deve ser aqui:</strong> Top 3 looks no Peru. <br>
+    <p><strong>Deve ser aqui:</strong> Top 3 looks no Peru <br>
     <strong>Jeff:</strong> 
     A)	T-shirt branca básica é tiro certo sempre e gorro Donut laranja pra dar uma cor e alegria. 
     (Laranja é antidepressivo. Não há registros de gente triste perto da cor laranja). <!-- esse cara é um genio e concordo com ele -->
 
     <p>
-   
+    <img src=\"images/jeff_looks_peru/foto3.jpeg\" sizes=\"(max-width: 2100px) 100vw, 2100px\">
     </p>
 
     B)	Parka da Bolovo pra manter o corpo livre das intempéries.
     <p>
-  
+    <img src=\"images/jeff_looks_peru/foto2.jpeg\" sizes=\"(max-width: 2100px) 100vw, 2100px\">
     </p>
 
     C)	Manga longa da Birden que te protege do vento, mosquitos e do Deus Sol que castiga Machu Picchu.
 
     <p>
-    <img src=\"images/looksjeff.jpg\" sizes=\"(max-width: 2100px) 100vw, 2100px\">
+    <img src=\"images/jeff_looks_peru/foto1.jpeg\" sizes=\"(max-width: 2100px) 100vw, 2100px\">
     </p>
     
     </p>
     <p></p>
     <br>
 
-    <p><strong>Deve ser aqui:</strong> Principal dica pra quem está planejando/quer visitar o país.<br>
+    <p><strong>Deve ser aqui:</strong> Principal dica pra quem está planejando/quer visitar o país:<br>
     <strong>Jeff:</strong> Toda viagem precisa de planejamento,mas os pequenos detalhes são importantíssimos.
 
     Exemplo: ao pegar o trem para Machu Picchu é vital que escolha um lugar do lado esquerdo do trem, porque as melhores paisagens estão desse lado.
@@ -128,7 +133,7 @@ posts:
     <p></p>
     <br>
 
-    <p><strong>Deve ser aqui:</strong> Recomendação de restaurantes ou pratos mais gostosos. <br>
+    <p><strong>Deve ser aqui:</strong> Restaurantes ou pratos mais gostosos: <br>
     <strong>Jeff:</strong> Quando em Lima, não deixe de ir no Astrid y Gaston.
     Já foi nomeado um dos 100 melhores do mundo e é uma comida maravilhosa com ótimo custo-benefício.
 
